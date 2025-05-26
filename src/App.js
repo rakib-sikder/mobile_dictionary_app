@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My Awesome Dictionary App!</Text>
+      <Text>My Awesome Dictionary App! a</Text>
       <StatusBar style="auto" />
     </View>
   );
